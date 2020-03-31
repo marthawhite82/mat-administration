@@ -1,1 +1,3 @@
-# mat-administration
+# maven-project
+
+Simple Maven Project
